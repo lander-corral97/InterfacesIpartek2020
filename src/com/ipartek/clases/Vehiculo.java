@@ -2,6 +2,13 @@ package com.ipartek.clases;
 
 import com.ipartek.interfaces.IVehiculo;
 
+/**
+ * Clase para representar un vehículo en general
+ * 
+ * @version 1.0
+ * @author Lander Corral
+ *
+ */
 public abstract class Vehiculo implements IVehiculo {
 
 	private int velocidadActual;

@@ -1,5 +1,12 @@
 package com.ipartek.clases;
 
+/**
+ * Clase para representar una Bici
+ * 
+ * @version 1.0
+ * @author Lander Corral
+ *
+ */
 public class Bici extends Vehiculo {
 
 	public Bici() {

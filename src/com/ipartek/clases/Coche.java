@@ -1,5 +1,12 @@
 package com.ipartek.clases;
 
+/**
+ * Clase para representar un Coche
+ * 
+ * @version 1.0
+ * @author Lander Corral
+ *
+ */
 public class Coche extends Vehiculo {
 
 	public Coche() {

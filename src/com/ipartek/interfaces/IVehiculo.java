@@ -1,5 +1,11 @@
 package com.ipartek.interfaces;
 
+/**
+ * Interfaz para cualquier vehículo
+ * 
+ * @author Lander Corral
+ *
+ */
 public interface IVehiculo {
 
 	public final int VEL_MAX_COCHE = 150;
